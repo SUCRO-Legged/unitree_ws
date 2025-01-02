@@ -1,5 +1,5 @@
 # Overview
-This repository contains the simulation and deployment for unitree Go1 based on [unitree_guide](https://github.com/unitreerobotics/unitree_guide). The code has been modified to work for the sim-to-sim and sim-to-real of the Deep Reinforcement Learning control method [ALARM: Safe Reinforcement Learning with Reliable Mimic for Robust Legged Locomotion](https://sucro-legged.github.io/ALARM/).
+This repository contains the simulation and deployment for Unitree Go1 based on [unitree_guide](https://github.com/unitreerobotics/unitree_guide). The code has been modified to work for the sim-to-sim and sim-to-real of the Deep Reinforcement Learning control method [ALARM: Safe Reinforcement Learning with Reliable Mimicry for Robust Legged Locomotion](https://sucro-legged.github.io/ALARM/).
 
 ## Dependencies
 - unbuntu20.04
